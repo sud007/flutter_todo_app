@@ -9,19 +9,19 @@ Can Save, Delete, Edit Items.
 ###### 1 No items
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193737.jpg" height="480" width="270" ></a>
 
-###### 1 Add Item
+###### 2 Add Item
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193750.jpg" height="480" width="270" ></a>
 
-###### 1 Added items and Done item
+###### 3 Added items and Done item
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193915.jpg" height="480" width="270" ></a>
 
-###### 1 All Items
+###### 4 All Items
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193930.jpg" height="480" width="270" ></a>
 
-###### 1 No Pending Items
+###### 5 No Pending Items
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193935.jpg" height="480" width="270" ></a>
 
-###### 1 Deleted Done Items
+###### 6 Deleted Done Items
 <a href="url"><img src="https://github.com/sud007/flutter_todo_app/blob/master/screens/Screenshot_20190202-193956.jpg" height="480" width="270" ></a>
 
 <br>
