@@ -1,6 +1,9 @@
 # flutter_notodo
 
-A new Flutter project.
+A new Flutter project. This is a ToDo App completely done in flutter.
+Uses sqFlite as well for storing items.
+
+Can Save, Delete, Edit Items.
 
 ## Getting Started
 
